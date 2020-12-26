@@ -15,8 +15,7 @@
 and in software project management.
 - Working for just over three years with Business Intelligence and Data Science, performing ETL procedures,
 managing Datawarehouse’s, developing visualizations in Power BI and Jupyter Notebook.
-- Acting as an analyst and developer in several projects, creating data processing routines and applications using
-the Python language.
+- For 10 years working as an analyst and developer in several projects, creating web applications using Python, PHP, Javascript, HTML and CSS (SCSS).
 
 ## Education
 - College degree in Systems Analysis and Development - Federal Technological University of Paraná.
