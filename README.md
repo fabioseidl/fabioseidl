@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm Fabio Seidl</h2>
-<h4 align="left">Business Intelligence Consultant and Data Scientist at BRDS</h4>
+<h4 align="left">Senior Data Engineer at Mout's</h4>
 
 <h3 align="left">Connect with me:</h3>
 
