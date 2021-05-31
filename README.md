@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- **fabio.seidl@brds.com.br**
+- **fabioseidl@gmail.com**
 - **https://www.linkedin.com/in/fseidl/**
 
 
