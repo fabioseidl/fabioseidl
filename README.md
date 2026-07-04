@@ -11,7 +11,7 @@ Outside of work you'll usually find me running LLMs locally, generating audioboo
 - [zordon-data-utils](https://github.com/fabioseidl/zordon-data-utils) — Python utilities for governed Unity Catalog naming and managed Delta table operations in Databricks
 - [mpbr-price-alert](https://github.com/fabioseidl/mpbr-price-alert) — price drop and target price alerts using the Menor Preço Brasil service
 - [baby-health-monitor](https://github.com/fabioseidl/baby-health-monitor) — ESP32 firmware developed by a nerd father to monitor when his daughter sleeps
-- 
+  
 ## Stack
 
 **Data:** Databricks · Spark · Delta Lake · Unity Catalog · SQL · Power BI / DAX · Analysis Services, Big Query
