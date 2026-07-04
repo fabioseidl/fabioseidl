@@ -1,6 +1,6 @@
 # Hi, I'm Fabio Seidl
 
-Data Engineer and Data Architect based in São Paulo, Brazil. I've been in technology for 25+ years, the last 10+ working with data. These days I design data platforms and build distributed pipelines, mostly on Azure and Databricks, and I mentor engineers in data engineering, business intelligence, and data governance.
+Data Engineer and Data Architect based in Florianópolis, Brazil. I've been in technology for 25+ years, the last 10+ working with data. These days I design data platforms and build distributed pipelines, mostly on Azure and Databricks, and I mentor engineers in data engineering, business intelligence, and data governance.
 
 Outside of work you'll usually find me running LLMs locally, generating audiobooks with TTS models, 3D printing parts for my projects, or with an ESP32 wired into my off-road car's CAN bus. I also cave dive, which has nothing to do with any of this.
 
